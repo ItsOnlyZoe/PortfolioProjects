@@ -1,10 +1,11 @@
 
-SELECT * FROM PortfolioProject..CovidDeaths
+SELECT * 
+FROM PortfolioProject..CovidDeaths
 WHERE Continent is not null
 ORDER BY 3,4
 
---select * from PortfolioProject..CovidVaccinations
---order by 3,4
+--SELECT * FROM PortfolioProject..CovidVaccinations
+--ORDER BY 3,4
 
 --select data that we are going to be using
 
