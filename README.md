@@ -1,5 +1,5 @@
 # PortfolioProjects
 
-Hello, my name is Zoe and this is my portfolio for my sql projects. 
+Hello, my name is Zoe and thank you for checking out my page! 
 
-This Repository will hold all of the code and queries for my sql projects.
+This Repository is for my portfolio and will hold all of the code and queries for my projects.
